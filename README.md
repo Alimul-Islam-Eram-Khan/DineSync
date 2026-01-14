@@ -7,13 +7,9 @@ It provides both **Customer** and **Admin panel** functionality, making it easy 
 
 ## 📖 Overview
 
-- Restaurants can **register** on the platform to list their tables.  
-- Customers can **sign up** and search restaurants by **area** or **type of food**.  
-- Menus are available for browsing, and customers can **book tables** directly.  
-- Each restaurant has its own **Admin panel** to manage:
-  - Table availability  
-  - Bookings  
-  - Meals and menus  
+Restaurants can register on the platform to list their tables.  
+Customers can sign up, search restaurants by **area** or **type of food**, view menus, and book tables.  
+Each restaurant has its own **Admin panel** to manage table availability, bookings, and meals.  
 
 Once a booking is accepted, the customer receives a **confirmation email**.  
 Both customers and restaurants can update and manage their information at any time.
@@ -28,6 +24,25 @@ Both customers and restaurants can update and manage their information at any ti
 - 💻 **Bootstrap** → Responsive design for all devices  
 - ⚡ **jQuery** → Interactive front‑end functionality  
 - 🗄️ **SQL Database** → Secure data storage and management  
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Homepage](DineSync/images/about.jpg)
+
+### Restaurant Search
+![Search](DineSync/images/about-2.jpg)
+
+### Menu Example
+![Apple Pie](DineSync/images/apple-pie-10.jpg)
+
+### Booking Confirmation
+![Booking](DineSync/images/bg-back.jpg)
+
+### Admin Panel
+![Admin Panel](DineSync/images/chef-1.jpg)
 
 ---
 
@@ -60,10 +75,30 @@ Both customers and restaurants can update and manage their information at any ti
 
 ---
 
-## 📸 Screenshots *(Add your images here)*
+## 🗺️ Roadmap
 
-```markdown
-![logo](images/logo.png)
-![Restaurant Search](docs/images/search.png)
-![Booking Confirmation](docs/images/confirmation.png)
-![Admin Panel](docs/images/admin.png)
+- Add **payment integration** for bookings.  
+- Implement **review & rating system** for restaurants.  
+- Enhance **search filters** (price range, seating capacity).  
+- Add **multi‑language support**.  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+- Fork the repo  
+- Create a feature branch  
+- Submit a pull request  
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+---
+
+## 📣 Tagline
+
+**“DineSync: A simple, smart way to book tables online and manage restaurant reservations.”**
