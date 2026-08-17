@@ -16,6 +16,38 @@ Both customers and restaurants can update and manage their information at any ti
 
 ---
 
+## 📸 Screenshots
+
+<h3 align="center">Homepage</h3>
+
+<p align="center">
+  <img src="images/homepage.png" width="90%" />
+</p>
+
+<h3 align="center">Restaurant Search</h3>
+
+<p align="center">
+  <img src="images/restaurant.png" width="90%" />
+</p>
+
+<h3 align="center">Menu Example</h3>
+
+<p align="center">
+  <img src="images/menu.png" width="90%" />
+</p>
+
+<h3 align="center">Booking Confirmation</h3>
+
+<p align="center">
+  <img src="images/booking.png" width="90%" />
+</p>
+
+<h3 align="center">Admin Panel</h3>
+
+<p align="center">
+  <img src="images/admin.png" width="90%" />
+</p>
+
 ## ✨ Features
 
 - 📧 **PHP Mailer** → Send booking confirmation emails  
