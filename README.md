@@ -27,25 +27,6 @@ Both customers and restaurants can update and manage their information at any ti
 
 ---
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage](DineSync/images/about.jpg)
-
-### Restaurant Search
-![Search](DineSync/images/about-2.jpg)
-
-### Menu Example
-![Apple Pie](DineSync/images/apple-pie-10.jpg)
-
-### Booking Confirmation
-![Booking](DineSync/images/bg-back.jpg)
-
-### Admin Panel
-![Admin Panel](DineSync/images/chef-1.jpg)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Backend:** PHP  
