@@ -21,7 +21,7 @@ Both customers and restaurants can update and manage their information at any ti
 <h3 align="center">Homepage</h3>
 
 <p align="center">
-  <img src="images/homepage.png" width="90%" />
+  <img src="images/bg-back.jpg" width="90%" />
 </p>
 
 <h3 align="center">Restaurant Search</h3>
